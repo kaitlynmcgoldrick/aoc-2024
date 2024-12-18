@@ -1,0 +1,1 @@
+{"version":3,"file":"linked-list.js","sourceRoot":"","sources":["../../day5/linked-list.ts"],"names":[],"mappings":"AAAA,MAAM,QAAQ;IAGZ,YAAY,IAAI;QACd,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;IACnB,CAAC;CACF;AAED,MAAM,UAAU;IAEd,YAAY,IAAI,GAAG,IAAI;QACrB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;IACnB,CAAC;CACF"}
